@@ -29,6 +29,9 @@ class DataLoader:
 
 
     def to_questions(self, df: pd.DataFrame) -> List[Question]:
-        return [Question(id=i, text=row[self.question_col]) for i, row in df.iterrows()]
+        return [
+            Question(id=idx, text=str(row[self.question_col]))
+            for idx, (_, row) in enumerate(df.iterrows())
+        ]
         
 
