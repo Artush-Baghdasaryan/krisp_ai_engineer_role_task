@@ -1,0 +1,98 @@
+[
+  {
+    "id": "C01",
+    "name": "Invoice Retrieval",
+    "description": "Questions related to obtaining or viewing invoices or bills.",
+    "count": 1992
+  },
+  {
+    "id": "C02",
+    "name": "Order Status Inquiries",
+    "description": "Questions asking for the current status of an order.",
+    "count": 1824
+  },
+  {
+    "id": "C03",
+    "name": "Customer Complaints",
+    "description": "Questions about filing complaints or reporting bad experiences with the company.",
+    "count": 1060
+  },
+  {
+    "id": "C04",
+    "name": "Newsletter Subscription",
+    "description": "Questions about subscribing to or receiving the company newsletter.",
+    "count": 572
+  },
+  {
+    "id": "C05",
+    "name": "Account Cancellations",
+    "description": "Questions regarding the cancellation or closure of various account types.",
+    "count": 3057
+  },
+  {
+    "id": "C06",
+    "name": "Delivery Methods Inquiry",
+    "description": "Questions about available delivery methods and options.",
+    "count": 920
+  },
+  {
+    "id": "C07",
+    "name": "Account Changes",
+    "description": "Questions regarding changing user accounts or account types.",
+    "count": 2250
+  },
+  {
+    "id": "C08",
+    "name": "Refund Requests",
+    "description": "Questions about requesting refunds or understanding refund policies.",
+    "count": 2851
+  },
+  {
+    "id": "C09",
+    "name": "Product Orders",
+    "description": "Questions asking for assistance with purchasing or ordering products.",
+    "count": 1294
+  },
+  {
+    "id": "C10",
+    "name": "Payment Issues",
+    "description": "Questions related to payment problems or issues.",
+    "count": 2041
+  },
+  {
+    "id": "C11",
+    "name": "User Assistance",
+    "description": "Questions about contacting customer service or speaking with a representative.",
+    "count": 2009
+  },
+  {
+    "id": "C12",
+    "name": "Account Access",
+    "description": "Questions related to recovering passwords or accessing user accounts.",
+    "count": 1011
+  },
+  {
+    "id": "C13",
+    "name": "Product Modifications",
+    "description": "Questions regarding changing or modifying orders or products.",
+    "count": 904
+  },
+  {
+    "id": "C14",
+    "name": "Signup Problems",
+    "description": "Questions about issues with signing up or registering for accounts.",
+    "count": 1757
+  },
+  {
+    "id": "C15",
+    "name": "Feedback and Reviews",
+    "description": "Questions related to leaving feedback or reviews for products or services.",
+    "count": 997
+  },
+  {
+    "id": "C16",
+    "name": "Delivery Address Changes",
+    "description": "Questions about updating or changing shipping addresses.",
+    "count": 1956
+  }
+]

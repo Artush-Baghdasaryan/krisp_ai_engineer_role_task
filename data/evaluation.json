@@ -1,0 +1,7 @@
+{
+  "adjusted_rand_index": 0.4116326343267079,
+  "normalized_mutual_information": 0.6437109839990353,
+  "homogeneity": 0.7037150121831185,
+  "completeness": 0.5931357724556505,
+  "v_measure": 0.6437109839990353
+}
